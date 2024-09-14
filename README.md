@@ -1,9 +1,3 @@
-
-## Flow of website
-
-![flow](https://i.imgur.com/trbch64.png)
-
-
 ### Installation
 
 1. Clone the repository:
