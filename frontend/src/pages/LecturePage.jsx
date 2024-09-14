@@ -1,4 +1,4 @@
-import Lecture from '../components/Lecture.js';
+import Lecture from '../components/Lecture.jsx';
 
 const LecturePage = () => {
   return (

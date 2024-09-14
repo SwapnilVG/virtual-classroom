@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Dashboard from './pages/Dashboard.js';
-import Login from './components/Login.js';
-import Register from './components/Register.js';
-import ClassDetails from './components/ClassDetails.js';
-import LecturePage from './pages/LecturePage.js';
+import Dashboard from "./pages/Dashboard.jsx";
+import Login from './components/Login.jsx';
+import Register from './components/Register.jsx';
+import ClassDetails from './components/ClassDetails.jsx';
+import LecturePage from './pages/LecturePage.jsx';
 
 function App() {
   return (

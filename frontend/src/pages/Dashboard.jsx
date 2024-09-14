@@ -1,4 +1,4 @@
-import ClassList from '../components/ClassList.js';
+import ClassList from '../components/ClassList.jsx';
 
 const Dashboard = () => {
   return (

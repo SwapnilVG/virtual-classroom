@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import api from '../utils/api.js';
-import CommentSection from './CommentSection.js';
+import CommentSection from './CommentSection.jsx';
 
 const Lecture = () => {
   const { sessionId } = useParams();
